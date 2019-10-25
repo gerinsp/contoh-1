@@ -1,2 +1,3 @@
 nama = m.arsal
 kelas = e
+status = janda
