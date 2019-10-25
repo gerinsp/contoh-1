@@ -1,0 +1,2 @@
+nama = m.arsal
+kelas = e
